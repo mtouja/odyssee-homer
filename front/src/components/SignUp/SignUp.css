@@ -1,0 +1,25 @@
+
+body {
+  background-color: #F9F942;
+  color: #121212;
+}
+
+h1 {
+  color: #0074bc;
+  font-size: 24px;
+  margin-bottom: 40px;
+}
+
+input.form-control {
+  margin-bottom: 20px !important;
+  font-size: 16px;
+}
+
+label {
+  font-size: 18px !important;
+}
+
+#submit {
+  margin: 0 !important;
+  padding: 0 !important;
+}
